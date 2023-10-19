@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**everlastingforyou/everlastingforyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 미호 (everlastingforyou)
+Developer / Graphic Designer
 
-Here are some ideas to get you started:
+- Minecraft plugin (Spigot / Paper API)
+- Interactive Media Design, Infographics, Typography, Web, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+### Languages
+C / C++ / Java / JavaScript / Linux / Python / Kotlin / HTML
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,linux,py,kotlin,html," alt="My Skills" />
+  </a>
+</p>
+
+### Programs
+Adobe Photoshop / Adobe Illustrator / Adobe Premiere Pro / Adobe After Effects / Unity / Blender / Discord / GitHub / VSCode / Intellij IDEA
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,unity,blender,discord,github,vscode,idea," alt="My Skills" />
+  </a>
+</p>
+
